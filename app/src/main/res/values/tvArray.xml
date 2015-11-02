@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text">
+        <item>textView1</item>
+        <item>TextView2</item>
+        <item>TextView01</item>
+        <item>TextView02</item>
+        <item>TextView03</item>
+        <item>TextView04</item>
+        <item>TextView05</item>
+        <item>TextView06</item>
+        <item>TextView07</item>
+        <item>textView3</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="check">
+        <item>checkBox1</item>
+        <item>checkBox2</item>
+        <!-- チェックボックス2 -->
+    </string-array>
+</resources>

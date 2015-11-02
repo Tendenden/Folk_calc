@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="button">
+        <item>button1</item>
+        <item>button2</item>
+        <item>button3</item>
+        <item>button4</item>
+        <item>button5</item>
+        <item>button6</item>
+        <item>button7</item>
+        <item>button8</item>
+        <item>button9</item>
+        <item>button10</item>
+        <item>button11</item>
+        <item>button12</item>
+        <item>button13</item>
+        <item>button14</item>
+        <item>button15</item>
+        <item>button16</item>
+        <item>button17</item>
+        <item>button18</item>
+        <item>button19</item>
+        <item>button20</item>
+        <item>button21</item>
+        <item>button22</item>
+        <item>button23</item>
+        <item>button24</item>
+        <item>button25</item>
+        <item>button26</item>
+        <item>button27</item>
+        <item>button28</item>
+        <item>button29</item>
+        <item>button30</item>
+        <item>button31</item>
+        <item>button32</item>
+        <item>button33</item>
+        <item>button34</item>
+        <item>button35</item>
+        <item>button36</item>
+        <!-- ボタン15 -->
+    </string-array>
+</resources>

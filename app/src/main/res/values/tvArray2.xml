@@ -1,0 +1,38 @@
+<resources>
+   <string-array name="text2">
+        <item>textView0</item>
+        <item>textView1</item>
+        <item>textView2</item>
+        <item>textView3</item>
+        <item>textView4</item>
+        <item>textView5</item>
+        <item>textView6</item>
+        <item>textView7</item>
+        <item>textView8</item>
+        <item>textView9</item>
+        <item>textView10</item>
+        <item>textView00</item>
+        <item>textView11</item>
+        <item>textView12</item>
+        <item>textView13</item>
+        <item>textView14</item>
+        <item>textView15</item>
+        <item>textView16</item>
+        <item>textView17</item>
+        <item>textView18</item>
+        <item>textView19</item>
+        <item>textView20</item>
+        <item>textView000</item>
+        <item>textView21</item>
+        <item>textView22</item>
+        <item>textView23</item>
+        <item>textView24</item>
+        <item>textView25</item>
+        <item>textView26</item>
+        <item>textView27</item>
+        <item>textView28</item>
+        <item>textView29</item>
+        <item>textView30</item>
+        <!-- テキスト20 -->
+    </string-array>
+</resources>

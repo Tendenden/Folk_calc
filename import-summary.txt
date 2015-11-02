@@ -1,0 +1,208 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .gitignore
+* Folk_11:1/
+* Folk_11:1/.DS_Store
+* Folk_11:1/.classpath
+* Folk_11:1/.gitignore
+* Folk_11:1/.project
+* Folk_11:1/.settings/
+* Folk_11:1/.settings/org.eclipse.jdt.core.prefs
+* Folk_11:1/AndroidManifest.xml
+* Folk_11:1/bin/
+* Folk_11:1/bin/.DS_Store
+* Folk_11:1/bin/AndroidManifest.xml
+* Folk_11:1/bin/Folk.apk
+* Folk_11:1/bin/Test7.apk
+* Folk_11:1/bin/classes.dex
+* Folk_11:1/bin/classes/
+* Folk_11:1/bin/classes/.DS_Store
+* Folk_11:1/bin/classes/te/
+* Folk_11:1/bin/classes/te/.DS_Store
+* Folk_11:1/bin/classes/te/folk/
+* Folk_11:1/bin/classes/te/folk/restaurant/
+* Folk_11:1/bin/classes/te/folk/restaurant/register/
+* Folk_11:1/bin/classes/te/folk/restaurant/register/BuildConfig.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/LogActivity.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/MainActivity.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$array.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$attr.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$dimen.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$drawable.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$id.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$layout.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$menu.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$string.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R$style.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/R.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/SubActivity$1.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/SubActivity$2.class
+* Folk_11:1/bin/classes/te/folk/restaurant/register/SubActivity.class
+* Folk_11:1/bin/dexedLibs/
+* Folk_11:1/bin/dexedLibs/android-support-v4-24a34da321728b9dde1fba7ddd0caa18.jar
+* Folk_11:1/bin/dexedLibs/android-support-v4-312b7a06e9c6ae8adad2b289ab107cc3.jar
+* Folk_11:1/bin/dexedLibs/android-support-v4-9fb9a45f68ff7569481a1e39e74eaf9e.jar
+* Folk_11:1/bin/jarlist.cache
+* Folk_11:1/bin/res/
+* Folk_11:1/bin/res/drawable-hdpi/
+* Folk_11:1/bin/res/drawable-hdpi/arrow_down.png
+* Folk_11:1/bin/res/drawable-hdpi/arrow_up.png
+* Folk_11:1/bin/res/drawable-hdpi/circle_down.png
+* Folk_11:1/bin/res/drawable-hdpi/circle_down2.png
+* Folk_11:1/bin/res/drawable-hdpi/folk2.png
+* Folk_11:1/bin/res/drawable-hdpi/ic_launcher.png
+* Folk_11:1/bin/res/drawable-hdpi/stone.png
+* Folk_11:1/bin/res/drawable-mdpi/
+* Folk_11:1/bin/res/drawable-mdpi/ic_launcher.png
+* Folk_11:1/bin/res/drawable-xhdpi/
+* Folk_11:1/bin/res/drawable-xhdpi/ic_launcher.png
+* Folk_11:1/bin/res/drawable-xxhdpi/
+* Folk_11:1/bin/res/drawable-xxhdpi/ic_launcher.png
+* Folk_11:1/bin/resources.ap_
+* Folk_11:1/gen/
+* Folk_11:1/gen/.DS_Store
+* Folk_11:1/gen/te/
+* Folk_11:1/gen/te/.DS_Store
+* Folk_11:1/gen/te/folk/
+* Folk_11:1/gen/te/folk/.DS_Store
+* Folk_11:1/gen/te/folk/restaurant/
+* Folk_11:1/gen/te/folk/restaurant/.DS_Store
+* Folk_11:1/gen/te/folk/restaurant/register/
+* Folk_11:1/gen/te/folk/restaurant/register/BuildConfig.java
+* Folk_11:1/gen/te/folk/restaurant/register/R.java
+* Folk_11:1/ic_launcher-web.png
+* Folk_11:1/libs/
+* Folk_11:1/libs/android-support-v4.jar
+* Folk_11:1/proguard-project.txt
+* Folk_11:1/project.properties
+* Folk_11:1/res/
+* Folk_11:1/res/.DS_Store
+* Folk_11:1/res/drawable-hdpi/
+* Folk_11:1/res/drawable-hdpi/arrow_down.png
+* Folk_11:1/res/drawable-hdpi/arrow_up.png
+* Folk_11:1/res/drawable-hdpi/border.xml
+* Folk_11:1/res/drawable-hdpi/border2.xml
+* Folk_11:1/res/drawable-hdpi/circle_down.png
+* Folk_11:1/res/drawable-hdpi/circle_down2.png
+* Folk_11:1/res/drawable-hdpi/folk1.png
+* Folk_11:1/res/drawable-hdpi/folk2.png
+* Folk_11:1/res/drawable-hdpi/ic_launcher.png
+* Folk_11:1/res/drawable-hdpi/stone.png
+* Folk_11:1/res/drawable-mdpi/
+* Folk_11:1/res/drawable-mdpi/ic_launcher.png
+* Folk_11:1/res/drawable-xhdpi/
+* Folk_11:1/res/drawable-xhdpi/ic_launcher.png
+* Folk_11:1/res/drawable-xxhdpi/
+* Folk_11:1/res/drawable-xxhdpi/ic_launcher.png
+* Folk_11:1/res/layout/
+* Folk_11:1/res/layout/activity2.xml
+* Folk_11:1/res/layout/activity3.xml
+* Folk_11:1/res/layout/activity_main.xml
+* Folk_11:1/res/menu/
+* Folk_11:1/res/menu/main.xml
+* Folk_11:1/res/values-sw600dp/
+* Folk_11:1/res/values-sw600dp/dimens.xml
+* Folk_11:1/res/values-sw720dp-land/
+* Folk_11:1/res/values-sw720dp-land/dimens.xml
+* Folk_11:1/res/values-v11/
+* Folk_11:1/res/values-v11/styles.xml
+* Folk_11:1/res/values-v14/
+* Folk_11:1/res/values-v14/styles.xml
+* Folk_11:1/res/values/
+* Folk_11:1/res/values/array.xml
+* Folk_11:1/res/values/cbArray.xml
+* Folk_11:1/res/values/dimens.xml
+* Folk_11:1/res/values/strings.xml
+* Folk_11:1/res/values/styles.xml
+* Folk_11:1/res/values/textSizes.xml
+* Folk_11:1/res/values/tvArray.xml
+* Folk_11:1/res/values/tvArray2.xml
+* Folk_11:1/src/
+* Folk_11:1/src/.DS_Store
+* Folk_11:1/src/te/
+* Folk_11:1/src/te/.DS_Store
+* Folk_11:1/src/te/folk/
+* Folk_11:1/src/te/folk/.DS_Store
+* Folk_11:1/src/te/folk/restaurant/
+* Folk_11:1/src/te/folk/restaurant/.DS_Store
+* Folk_11:1/src/te/folk/restaurant/register/
+* Folk_11:1/src/te/folk/restaurant/register/LogActivity.java
+* Folk_11:1/src/te/folk/restaurant/register/MainActivity.java
+* Folk_11:1/src/te/folk/restaurant/register/SubActivity.java
+* folk画像/
+* folk画像/ folk2.png
+* folk画像/.DS_Store
+* folk画像/1410955074554.jpg
+* folk画像/1410955074554.mdp
+* folk画像/20140406_124807000_iOS.jpg
+* folk画像/CIMG2926.JPG
+* folk画像/CIMG4131.JPG
+* folk画像/CIMG4134.JPG
+* folk画像/DSCN0031.JPG
+* folk画像/DSCN0595.JPG
+* folk画像/DSCN4160.JPG
+* folk画像/DSCN4206.JPG
+* folk画像/DSCN4206.mdp
+* folk画像/DSC_0178.jpg
+* folk画像/DSC_0235.jpg
+* folk画像/DSC_0335.jpg
+* folk画像/DSC_0458.jpg
+* folk画像/P9186094.JPG
+* folk画像/folk1.png
+* folk画像/folk3.jpg
+* folk画像/folk4.png
+* folk画像/folk5.png
+* ic_launcher-web.png
+* proguard-project.txt
+* web/
+* web/folk.html
+* web/folk.html~
+* web/style.css
+* web/style.css~
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/.DS_Store => app/src/main/resources/.DS_Store
+* src/te/.DS_Store => app/src/main/resources/te/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
